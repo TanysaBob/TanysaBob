@@ -26,7 +26,7 @@ Interpersonal Skills: Great communication, organization skills, and learning ada
 
 🔭 I’m currently working on ...
 - my personal website
-- my flappy bird game
+- my Brick Breaker game
 - LeetCode
 
 🌱 I’m currently learning ...
