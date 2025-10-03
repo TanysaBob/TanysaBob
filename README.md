@@ -18,17 +18,17 @@ I am a Software Engineering major at the University of Western Ontario who's goi
 
 Programming Languages: Java, Javascript, HTML, CSS, C, C#, and Python
 
-Software Development Tools: Unity, IntelliJ, Processing, JavaFX, Scene Builder, Git, and Github
+Software Development Tools: Unity, IntelliJ, Processing, JavaFX, Scene Builder, Visual Studio, Git, and Github
 
-Database Management: SQL, Object Design modelling, State Machine, Activity, and Sequence Diagrams
+Database Management: SQL, Notepad++, PuTTY, Node.js, Angular, Amazon AWS
 
 Interpersonal Skills: Great communication, organization skills, and learning adaptability
 
 🔭 I’m currently working on ...
 - my personal website
 - my Brick Breaker game
-- LeetCode
+- LeetCodes
 
 🌱 I’m currently learning ...
-- web development
+- How to use PuTTY and Amazon AWS
 - databases and system design
